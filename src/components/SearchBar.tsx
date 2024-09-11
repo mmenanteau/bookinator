@@ -1,5 +1,17 @@
 "use client";
 
-export default function SearchBar() {
-  return <input type="search" />;
+interface SearchBarProps {
+  onChange: (value: string) => void;
 }
+
+const SearchBar: React.FC<SearchBarProps> = (props: SearchBarProps) => {
+  return (
+    <input
+      type="search"
+      placeholder="Search here"
+      onChange={(event) => props.onChange(event.target.value)}
+    />
+  );
+};
+
+export default SearchBar;
