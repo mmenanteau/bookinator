@@ -4,8 +4,7 @@
     "title": "Un monde presque parfait",
     "author": {
       "id": "author-1",
-      "firstname": "Laurent",
-      "lastname": "Gounelle",
+      "name": "Laurent Gounelle",
       "description": "En neuf romans, Laurent Gounelle est devenu une plume majeure de la littérature. Traduit dans près de quarante langues, il s’est imposé parmi les auteurs français les plus lus au monde, avec des titres incontournables : L’homme qui voulait être heureux, Le jour où j’ai appris à vivre ou encore Et tu trouveras le trésor qui dort en toi. Laurent Gounelle, également conférencier, nous accompagne depuis 15 ans vers une meilleure compréhension de notre chemin de vie dans un monde en pleine métamorphose."
     },
     "price": 22.9,
@@ -26,8 +25,7 @@
     "title": "L'homme qui voulait être heureux: Ce que l'on croit peut devenir réalité",
     "author": {
       "id": "author-1",
-      "firstname": "Laurent",
-      "lastname": "Gounelle",
+      "name": "Laurent Gounelle",
       "description": "En neuf romans, Laurent Gounelle est devenu une plume majeure de la littérature. Traduit dans près de quarante langues, il s’est imposé parmi les auteurs français les plus lus au monde, avec des titres incontournables : L’homme qui voulait être heureux, Le jour où j’ai appris à vivre ou encore Et tu trouveras le trésor qui dort en toi. Laurent Gounelle, également conférencier, nous accompagne depuis 15 ans vers une meilleure compréhension de notre chemin de vie dans un monde en pleine métamorphose."
     },
     "price": 7,
@@ -48,8 +46,7 @@
     "title": "Nymphéas noirs",
     "author": {
       "id": "author-2",
-      "firstname": "Michel",
-      "lastname": "Bussi",
+      "name": "Michel Bussi",
       "description": "Michel Bussi, géographe et professeur à l'université de Rouen, a publié aux Presses de la Cité Nymphéas noirs, polar français le plus primé en 2011. Un avion sans elle s'est vendu à plus de un million d'exemplaires en France. Ses ouvrages, qui rencontrent un grand succès international, notamment en Allemagne, en Angleterre, en Italie et en Chine, sont traduits dans 35 pays. Les droits de plusieurs d'entre eux ont été cédés en vue d'adaptations télévisuelles : France 2 a notamment diffusé les six épisodes de Maman a tort en mai et juin 2018. Il est l'auteur, toujours aux Presses de la Cité, de Ne lâche pas ma main (2013), N'oublier jamais (2014), Maman a tort (2015), Le temps est assassin (2016) et On la trouvait plutôt jolie (2017). Gravé dans le sable, paru en 2014, est la réédition du premier roman qu'il a écrit, Omaha Crimes, et le deuxième publié après Code Lupin (2006). En 2017, il est le troisième auteur français le plus vendu en France selon le palmarès du Figaro-GFK. En 2018, il publie un recueil de nouvelles chez Pocket, T'en souviens-tu, mon Anaïs ? et réédite l'un de ses premiers romans, Sang famille (paru en 2009), aux Presses de la Cité, ainsi qu'une version enrichie et illustrée de Code Lupin aux Éditions des Falaises."
     },
     "price": 9.2,

@@ -1,6 +1,5 @@
 export type BookAuthor = {
   id: string;
-  firstname: string;
-  lastname: string;
+  name: string;
   description: string;
 };
